@@ -1,14 +1,14 @@
-$.lang.register('gambling.need.points', 'You don\'t have that many $1.');
-$.lang.register('gambling.error.max', 'You\'re only allowed to gamble a maximum amount of $1.');
-$.lang.register('gambling.error.min', 'You\'re only allowed to gamble a minimum amount of $1.');
-$.lang.register('gambling.lost', '$1 rolled $2 and lost $3. $5'); // Use $4 for the points the user has renaming
-$.lang.register('gambling.won', '$1 rolled $2 and won $3! $5'); // Use $4 for the points the user has renaming
-$.lang.register('gambling.usage', 'Usage: !gamble [amount]');
-$.lang.register('gambling.set.max.usage', 'Usage: !gamblesetmax [amount]');
-$.lang.register('gambling.set.max', 'Set the maximum gambling amount to $1!');
-$.lang.register('gambling.set.min.usage', 'Usage: !gamblesetmin [amount]');
-$.lang.register('gambling.set.min', 'Set minimum gambling to $1!');
-$.lang.register('gambling.win.range.usage', 'Usage: !gamblesetwinningrange [range]');
-$.lang.register('gambling.win.range', 'Set gambling win range to $1-100 lose range to 1-$2');
-$.lang.register('gambling.percent.usage', 'Usage: !gamblesetgainpercent [amount]');
-$.lang.register('gambling.percent', 'Set gambling gain percent to $1%');
+$.lang.register('gambling.need.points', 'Você não tem o suficiente $1.');
+$.lang.register('gambling.error.max', 'Você só pode jogar a quantia máxima de $1.');
+$.lang.register('gambling.error.min', 'Você só pode jogar a quantia mínima de $1.');
+$.lang.register('gambling.lost', '$1 rolou $2 and perdeu $3. $5'); // Use $4 para os pontos que o usuário renomeou
+$.lang.register('gambling.won', '$1 rolou $2 and ganhou $3! $5'); // Use $4 for the points the user has renaming
+$.lang.register('gambling.usage', 'Uso: !gamble [valor]');
+$.lang.register('gambling.set.max.usage', 'Uso: !gamblesetmax [valor]');
+$.lang.register('gambling.set.max', 'Defina o valor máximo da aposta para $1!');
+$.lang.register('gambling.set.min.usage', 'Uso: !gamblesetmin [valor]');
+$.lang.register('gambling.set.min', 'Defina o valor mínimo da aposta para $1!');
+$.lang.register('gambling.win.range.usage', 'Uso: !gamblesetwinningrange [faixa]');
+$.lang.register('gambling.win.range', 'Defina a faixa de vitória para $1-100 faixa de perda para 1-$2');
+$.lang.register('gambling.percent.usage', 'Uso: !gamblesetgainpercent [valor]');
+$.lang.register('gambling.percent', 'Defina o percentual de ganho da aposta para $1%');
