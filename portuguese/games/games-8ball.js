@@ -1,4 +1,4 @@
-$.lang.register('8ball.answer.1', 'Reply hazy try again.');
+$.lang.register('8ball.answer.1', 'Perguntas nebulosas recebem respostas nebulosas.');
 $.lang.register('8ball.answer.2', 'Pergunte novamente mais tarde.');
 $.lang.register('8ball.answer.3', 'Melhor não dizer agora.');
 $.lang.register('8ball.answer.4', 'Não sou capaz de opinar.');
