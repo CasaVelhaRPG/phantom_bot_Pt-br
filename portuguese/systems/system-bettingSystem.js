@@ -18,7 +18,7 @@ $.lang.register('bettingsystem.bet.error.points', 'Você não tem esse tanto de 
 $.lang.register('bettingsystem.bet.betplaced', 'Você já fez uma aposta de $1 em $2.');
 $.lang.register('bettingsystem.bet.null', 'Essa não é uma opção válida de aposta.');
 $.lang.register('bettingsystem.toggle.save', 'O resultado da aposta $1 será salvo depois de fechar a aposta.');
-$.lang.register('bettingsystem.warning.messages', 'Mensagens de avisos $1 serão exibidas no chat.');
+$.lang.register('bettingsystem.warning.messages', 'Mensagem de aviso $1 será exibida no chat.');
 $.lang.register('bettingsystem.saveformat.usage', 'Use: !bet saveformat [data] - O Padrão é yy.M.dd');
 $.lang.register('bettingsystem.saveformat.set', 'O Formato salvo foi mudado para  $1.');
 $.lang.register('bettingsystem.gain.usage', 'Use: !bet ganho [porcentagem]');
