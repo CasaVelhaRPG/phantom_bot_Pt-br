@@ -1,3 +1,3 @@
-$.lang.register('cleanupsystem.run.progress', 'Cleanup is starting, $1 might be unresponsive or slow during this process. This might take time...');
-$.lang.register('cleanupsystem.run.success', 'Cleanup done!');
-$.lang.register('cleanupsystem.run.usage', 'Usage: !cleanup [time / points / all] [amount of time in seconds or points if cleaning points]');
+$.lang.register('cleanupsystem.run.progress', 'A limpeza está começando, $1 pode não responder ou ficar lento durante esse processo. Isso pode levar tempo ...');
+$.lang.register('cleanupsystem.run.success', 'Limpeza concluída!');
+$.lang.register('cleanupsystem.run.usage', 'Uso: !cleanup [tempo / pontos / tudo] [quantidade de tempo em segundos ou pontos se limpando pontos]');
