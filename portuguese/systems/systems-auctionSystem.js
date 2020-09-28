@@ -1,4 +1,4 @@
-$.lang.register('auctionsystem.usage', 'Uso: !auction open (acréscimos) (lance mínimo) (tempo para fechar');
+$.lang.register('auctionsystem.usage', 'Uso: !auction open (acréscimo mínimo) (lance mínimo) (tempo para fechar)');
 $.lang.register('auctionsystem.err.opened', 'Um leilão já está aberto.');
 $.lang.register('auctionsystem.opened', 'O Leilão está aberto! Você pode dar seu lance de no mínimo $1. O Menor lance é $2! Entre no leilão com !bid (quantidade)');
 $.lang.register('auctionsystem.auto.timer.msg', 'Leilão irá fechar em $1 segundos!');
